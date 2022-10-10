@@ -1,8 +1,8 @@
 import random
 print("HOLA")
 for i in range(3):
-    print("soy Johan Andres Chate ")
-print("----Juego adivinar numero -------")
+    print("soy Johan Andres Chate \n")
+print("<----Juego adivinar numero ------->\n")
 al=random.randint(1,100)
 cont=0
 while True:
