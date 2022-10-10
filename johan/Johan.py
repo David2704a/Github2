@@ -16,4 +16,5 @@ while True:
         print(f"has adivinado el numero era:\t {al}\n") 
         break
 print(f"los intentos fueron:\n{cont}")
-print("")
+for i in range(3):
+    
